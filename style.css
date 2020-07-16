@@ -1,3 +1,8 @@
+
+body {
+    background-color: lightskyblue;
+}
+
 .container {
     background-color: lightskyblue;
 }
@@ -5,4 +10,13 @@
 .header {
     font-family: Arial, Helvetica, sans-serif;
     background-color: lightcyan;
+}
+
+.floatleft {
+    float: left;
+    margin-right: 20px;
+}
+
+p {
+    display: center;
 }
