@@ -1,10 +1,9 @@
 
 body {
-    background-color: lightskyblue;
+    background-image: linear-gradient(to bottom right, #D8BFD8, skyblue );
 }
 
 .container {
-    background-color: lightskyblue;
 }
 
 .header {
